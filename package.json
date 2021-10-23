@@ -8,7 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.23.0",
     "core-js": "^3.6.5",
+    "vant": "^2.12.29",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
@@ -28,5 +30,10 @@
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
